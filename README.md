@@ -4,11 +4,11 @@
 
 Product Listing page                             |  Product Description page
 :---------------------------------------:|:---------------------------------------:
-![](./img/capture1.png)                  |  ![](./img/capture2.png) 
+![Capture1](https://user-images.githubusercontent.com/73607512/157762535-cd465822-e83e-4add-bc1e-2acecfd06ced.PNG) |  ![Capture2](https://user-images.githubusercontent.com/73607512/157762542-ddb6d61d-000d-4df2-9988-daaa6ecdcbe7.PNG) 
 
 MiniCart view                            |  Cart page
 :---------------------------------------:|:---------------------------------------:
-![](./img/capture3.png)                  |  ![](./img/capture4.png)
+![Capture3](https://user-images.githubusercontent.com/73607512/157762551-fdc063ae-1267-490a-a732-cf8532993c53.PNG) |  ![Capture4](https://user-images.githubusercontent.com/73607512/157762555-323a3c0a-a5c0-4d60-86ce-7ad9471ed7c4.PNG)
 
 
 # BUILT WITH
@@ -35,7 +35,7 @@ MiniCart view                            |  Cart page
 # Running this project locally
 
 - To run this project locally, please follow these instructions:
- - Click on this [link](https://github.com/scandiweb/junior-react-endpoint) for instructions on how to run the backendserver for thi project
+ - Click on this [link](https://github.com/scandiweb/junior-react-endpoint) for instructions on how to run the backend server for thi project
 
  - Clone this [repo](https://github.com/mckent05/scandiweb-assessment.git)
      `git clone https://github.com/mckent05/scandiweb-assessment.git `
@@ -51,7 +51,7 @@ MiniCart view                            |  Cart page
 
 👤 **Akinlade Temitope**
 
-- GitHub: [Akinlade Temitope](https://github.com/akinladetemitope)
+- Linkedin: [Akinlade Temitope](https://www.linkedin.com/in/akinladetemitope/)
 - Twitter: [@mckent05](https://twitter.com/mckent05)
 
 ## 🤝 Contributing
@@ -60,6 +60,9 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
+
 ## Show your support
+
 
 Give a ⭐️ if you like this project!
