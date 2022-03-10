@@ -1,0 +1,273 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 100vw;
+
+}
+
+
+
+.d-flex {
+    display: flex;
+}
+
+.a-center {
+    align-items: center;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.f-col {
+    flex-direction: column;
+}
+
+.f-row {
+    flex-direction: row;
+}
+
+.add-attr {
+    z-index: 999;
+    width: 100%;
+    left: 0;
+    top: -500%;
+    background-color: #474c4c;
+    box-shadow: 0 4px 6px grey;
+    border-radius: 4px;
+    position: absolute;
+    border: 1px solid black;
+    display: none;
+    row-gap: 10px;
+}
+
+.out-of-stock {
+    position:absolute;
+    font-size: 30px;
+    color: #8d8f9a;
+    opacity: 0.5;
+    text-transform: uppercase;
+}
+
+.popup .add-attr {
+    display: flex;
+}
+
+.listing-page {
+    background : #fff
+}
+
+.nav {
+    background: #fff;
+    width: 100vw;
+    box-shadow: 0 2px 4px grey;
+    top: 0;
+    z-index: 9999999;
+}
+
+.attr-close {
+    justify-content: space-around;
+    width: 100%;
+}
+
+.curr-filter {
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.option {
+    padding: 10px;
+    height: 20px;
+}
+
+.nav-cont {
+    width: 100vw;
+    height: 80px;
+    justify-content: space-around;
+}
+
+.nav-img {
+    color: green;
+    transform: scale(2.5);
+}
+
+.category-header {
+    width: 90vw;
+    height: 80px;
+    justify-content: space-between;
+}
+
+.category-filter {
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.add {
+    position: absolute;
+    right: 10%;
+    top: -50%;
+    background-color: #5ece7b;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+}
+
+
+.to-add {
+    color: white;
+    transform: scale(1.5);
+}
+
+.category-name {
+    text-transform: capitalize;
+    font-size: 34px;
+    line-height: 15px;
+}
+
+.products-cont {
+    width: 80%;
+    margin: 50px auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 20px;
+}
+
+.products {
+    width: 28%;
+    border-radius: 4px;
+    row-gap: 5px;
+    background-color: #fff;
+}
+
+.products:hover {
+    box-shadow: 0px 4px 35px rgba(168, 172, 176, 0.19);
+}
+
+.product-img {
+    width: 80%;
+    height: 290px;
+    margin-top: 30px;
+}
+
+.product-details {
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+    width: 90%;
+    border-top: 1px solid rgb(253, 221, 221);
+    row-gap: 7px;
+}
+
+.remove-from-cart {
+    display: none;
+
+}
+
+.cart-filter-currency {
+    width: 7.5vw;
+    justify-content: space-between;
+}
+
+.shop-cart {
+    width: 20vw;
+}
+
+.shop-cart > button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    transform: scale(2);
+    margin-top: 10px;
+}
+
+.display-remove .remove-from-cart {
+    display: flex;
+}
+
+.display-remove .add-to-cart {
+    display: none;
+}
+
+.attr-list {
+    row-gap: 10px;
+}
+
+.attr-header {
+    text-align: center;
+    margin-top: 0;
+}
+
+.attr-btn-cont {
+    width: 100%;
+    column-gap: 8px;
+}
+
+.attr-btn {
+    width: 45px;
+    height: 35px;
+    text-align: center;
+    border: none;
+    outline: none;
+    background-color: #a6a6a6;
+    font-weight: 700;
+}
+
+.cart-btn-container {
+    width: 100%;
+}
+
+.attr-btn-cont .selected-color {
+    border: 3px solid gold;
+}
+
+.attr-btn-cont .selected-size {
+    border: 2px solid #1d1f22;
+    background-color: #fff;
+}
+
+.cart-control-btn {
+    padding: 10px 32px;
+    background-color: #5ece7b;
+    width: 60%;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.remove-cart {
+    background-color: red;
+}
+
+.product-cont-home {
+    margin-top: 20px;
+}
+
+.cart-badge {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: -1.9vh;
+    right: -2.3vw;
+    font-size: 20px;
+    background-color: #fff;
+    color: black;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: 200;
+    z-index: 555;
+}
+
+.loading-header {
+ width: 100vw;
+ height: 80vh;
+}
+
