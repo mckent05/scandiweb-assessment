@@ -61,7 +61,7 @@ body {
 
 .nav {
     background: #fff;
-    width: 98.75vw;
+    width: 100vw;
     box-shadow: 0 2px 4px grey;
     top: 0;
     z-index: 9999999;
@@ -84,7 +84,7 @@ body {
 }
 
 .nav-cont {
-    width: 97.5%;
+    width: 100vw;
     height: 80px;
     justify-content: space-around;
 }
@@ -169,7 +169,7 @@ body {
 }
 
 .cart-filter-currency {
-    width: 7vw;
+    width: 7.5vw;
     justify-content: space-between;
 }
 
