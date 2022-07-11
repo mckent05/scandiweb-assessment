@@ -4,9 +4,9 @@
 
 Product Listing page                             |  Product Description page
 :---------------------------------------:|:---------------------------------------:
-![Capture1](https://user-images.githubusercontent.com/73607512/157762535-cd465822-e83e-4add-bc1e-2acecfd06ced.PNG) |  ![Capture2](https://user-images.githubusercontent.com/73607512/157762542-ddb6d61d-000d-4df2-9988-daaa6ecdcbe7.PNG) 
+![Capture1](https://user-images.githubusercontent.com/73607512/157762535-cd465822-e83e-4add-bc1e-2acecfd06ced.PNG) | ![Capture2](https://user-images.githubusercontent.com/73607512/157762542-ddb6d61d-000d-4df2-9988-daaa6ecdcbe7.PNG) 
 
-MiniCart view                            |  Cart page
+MiniCart view                            |   Cart page
 :---------------------------------------:|:---------------------------------------:
 ![Capture3](https://user-images.githubusercontent.com/73607512/157762551-fdc063ae-1267-490a-a732-cf8532993c53.PNG) |  ![Capture4](https://user-images.githubusercontent.com/73607512/157762555-323a3c0a-a5c0-4d60-86ce-7ad9471ed7c4.PNG)
 
